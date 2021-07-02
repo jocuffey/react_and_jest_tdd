@@ -1,3 +1,5 @@
+![Main](https://github.com/github/docs/actions/workflows/test.yml/badge.svg)
+
 # React and Jest TDD example
 
 Production: https://fe-testing-app.netlify.app/
